@@ -9,20 +9,19 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no 1º período. Estou a
 - **Node.js**: Desenvolvimento de back-end.
 - **Figma**: Design de interfaces e protótipos.
 
-#🎯 Objetivos
+🎯 Objetivos
 
 - Aprofundar conhecimentos em **Java** e **Python**.
 - Criar APIs com **Node.js**.
 - Melhorar habilidades em design com **Figma**.
 
-# 📚 O que estou estudando
+ 📚 O que estou estudando
 
 - **Java**: Estruturas de dados e manipulação de arquivos.
 - **Python**: Automação e scripts.
 - **Node.js**: APIs RESTful.
 
-# 📬 Contatos
+ 📬 Contatos
 
-- GitHub: (https://github.com/rafasilvc)
 - LinkedIn: (www.linkedin.com/in/rafael-barbosa-6835522b6)
 - Email: (rb7196710@gmail.com)
