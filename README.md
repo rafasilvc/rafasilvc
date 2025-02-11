@@ -21,7 +21,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no 1º período. Estou a
 - **Python**: Automação e scripts.
 - **Node.js**: APIs RESTful.
 
- 📬 Contatos
+🏫 **Faculdade Senac Recife**
+ 
+📬 Contatos
 
 - LinkedIn: (www.linkedin.com/in/rafael-barbosa-6835522b6)
 - Email: (rb7196710@gmail.com)
