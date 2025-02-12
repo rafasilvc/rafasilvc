@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no 1º período. Estou a
 
 🚀 Tecnologias
 
-- **Java**: Orientação a objetos, algoritmos e estruturas de dados.
+**Java**: Orientação a objetos, algoritmos e estruturas de dados.
 - **Python**: Scripts, automação e programação funcional.
 - **Node.js**: Desenvolvimento de back-end.
 - **Figma**: Design de interfaces e protótipos.
